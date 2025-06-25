@@ -1,4 +1,4 @@
-![Banner](https://imgur.com/2GIGCap) <!-- Replace with your own banner URL later -->
+[Banner](https://imgur.com/2GIGCap)
 
 # 👋 Hi, I'm Kaniz Naiba  
 ### 💻 Front-End Developer | React & Firebase Enthusiast
