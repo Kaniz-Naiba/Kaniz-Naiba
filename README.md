@@ -1,4 +1,4 @@
-![Banner](https://imgur.com/undefined)
+![Banner](https://imgur.com/a/E2BLMH3)
 
 
 # 👋 Hi, I'm Kaniz Naiba  
