@@ -1,8 +1,8 @@
-![Banner](https://i.imgur.com/2GIGCap.png)
+![Banner](https://imgur.com/undefined)
 
 
 # 👋 Hi, I'm Kaniz Naiba  
-### 💻 Front-End Developer | React & Firebase Enthusiast
+### 💻 Web Developer | React & Firebase Enthusiast
 
 ---
 
