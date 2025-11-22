@@ -1,4 +1,5 @@
-![Banner](https://imgur.com/a/E2BLMH3)
+<img width="1408" height="768" alt="image_1_1763835425721" src="https://github.com/user-attachments/assets/cdad6be9-1204-4186-80bd-59e03b37ea4f" />
+
 
 
 # 👋 Hi, I'm Kaniz Naiba  
